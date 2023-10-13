@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-image: url('SL-043021-42650-28.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    background-color: #336699; 
+    font-family: Arial, sans-serif; 
+    border: 2px dotted blue;
+    padding: 10px 15px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+
+p{
+    text-align: justify;
+    background-color: hsl(120, 70%, 80%);
+    font-style: italic;
+    padding: 20px;
+    width: 500px;
+    border: 3px solid black; 
+    border-top-style: solid; 
+    border-right-style: solid; 
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(178 0 255);
+    margin: 2px 5px;
+}
